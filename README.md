@@ -8,32 +8,39 @@ Aplikasi manajemen perpustakaan berbasis web yang modern dan responsif, dibangun
 
 ## 🚀 Fitur Utama
 
--   **📊 Dashboard Interaktif**: Ringkasan statistik real-time (Total Buku, Kategori, Anggota, Peminjaman).
--   **📚 Manajemen Inventaris**:
-    -   Pengelolaan Data Buku
-    -   Manajemen Kategori Buku
-    -   Pemantauan Kondisi Buku
--   **👥 Manajemen Anggota**: Pendataan dan pengelolaan anggota perpustakaan.
--   **🔄 Sirkulasi**:
-    -   Pencatatan Peminjaman Buku
-    -   Proses Pengembalian Buku
--   **🌐 REST API**: Endpoint siap pakai untuk integrasi data buku (`/api/books`).
+- **📊 Dashboard Interaktif**: Ringkasan statistik real-time (Total Buku, Kategori, Anggota, Peminjaman).
+- **📚 Manajemen Inventaris**:
+    - Pengelolaan Data Buku
+    - Manajemen Kategori Buku
+    - Pemantauan Kondisi Buku
+- **👥 Manajemen Anggota**: Pendataan dan pengelolaan anggota perpustakaan.
+- **🔄 Sirkulasi**:
+    - Pencatatan Peminjaman Buku
+    - Proses Pengembalian Buku
+- **🌐 REST API**: Endpoint siap pakai untuk integrasi data buku (`/api/books`).
 
-## 🛠️ Teknologi
+## � Galeri Website
 
--   **Framework**: [Laravel 12](https://laravel.com)
--   **Styling**: [Tailwind CSS 4](https://tailwindcss.com)
--   **Frontend**: Blade Templates & Vite
--   **Database**: MySQL / SQLite
--   **Bahasa**: PHP >= 8.2
+<div align="center">
+  <img src="screenshots/Screenshot%202026-01-26%20214708.png" alt="Tampilan 1" width="45%">
+  <img src="screenshots/Screenshot%202026-01-26%20214729.png" alt="Tampilan 2" width="45%">
+</div>
+
+## �🛠️ Teknologi
+
+- **Framework**: [Laravel 12](https://laravel.com)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com)
+- **Frontend**: Blade Templates & Vite
+- **Database**: MySQL / SQLite
+- **Bahasa**: PHP >= 8.2
 
 ## ⚙️ Persyaratan Sistem
 
 Sebelum memulai, pastikan sistem Anda memiliki:
 
--   **PHP** >= 8.2
--   **Composer** (Manajer dependensi PHP)
--   **Node.js & NPM** (Untuk kompilasi aset frontend)
+- **PHP** >= 8.2
+- **Composer** (Manajer dependensi PHP)
+- **Node.js & NPM** (Untuk kompilasi aset frontend)
 
 ## 📥 Panduan Instalasi
 
